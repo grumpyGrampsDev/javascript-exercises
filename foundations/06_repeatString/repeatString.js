@@ -1,7 +1,7 @@
 console.log("Script loaded");
 
 const repeatString = function (str, num) {
-  if (num < 0) return "Error";
+  if (num < 0) return "ERROR";
 
   let result = "";
 
